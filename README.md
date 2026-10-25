@@ -21,9 +21,3 @@ A responsive front-end concept with a home page plus the two requested pages:
 - Mobile viewport metadata
 - Open Graph metadata
 - Canonical URL placeholders (update these if publishing to a different domain)
-
-## Before submission
-- Test all pages on desktop and mobile.
-- Replace any concept copy or links as required by the task owner.
-- Deploy to GitHub Pages, Netlify, or Vercel and submit the public URL.
-- This is an independent concept redesign and is not an official Funngro website.
